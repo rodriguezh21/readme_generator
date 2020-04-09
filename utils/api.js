@@ -1,6 +1,7 @@
 const axios = require('axios');
 const inquirer = require('inquirer')
 
+
 inquirer
   .prompt([
     {
@@ -22,7 +23,7 @@ const api = {
 
       var qURL = "https://api.github.com/users/"+username;
       var config = {
-        headers: {'Authorization': 'token 3f91a260540d94e6b1a6dd15e2db9ed8f5c2d35f'}
+        headers: {'Authorization': 'token  9bf3a9f9dbce95d6b9667423f8d3c641985198fa'}
       }
 
       axios.get(qURL, config).then(function(res){

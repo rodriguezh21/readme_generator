@@ -1,0 +1,19 @@
+
+# Readme Generator
+
+## Homework #7
+
+* 
+==============================================================================================
+
+* Run index.js in your terminal
+
+* Follow the prompts about your project
+
+* none
+
+* Mansi Patel
+
+* Using the command line
+
+* none
