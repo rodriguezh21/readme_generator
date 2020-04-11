@@ -82,7 +82,7 @@ async function init() {
   let apiRes = await api(response.username)
     console.log(apiRes.data)
     //generateMarkdown(res);
-    fs.writeFile("test.txt",generateMarkdown(response, apiRes.data),function(err,data){
+    fs.writeFile("log.md",generateMarkdown(response, apiRes.data),function(err,data){
       // console.log(data);
     })
 }
