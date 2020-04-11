@@ -18,7 +18,7 @@
 - Each title has it's own specific questions as well. 
 - After questions have been answered you'll be prompted to create your own html page with your team's data displayed.
 
-<img src"content/assets/Readme-Gen GIF.gif"
+<img alt"Readme-Generator GIF" src"content/assets/Readme-Gen GIF.gif"
 
 ***
 
