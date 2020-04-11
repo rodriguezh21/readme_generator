@@ -18,7 +18,7 @@
 - Each title has it's own specific questions as well. 
 - After questions have been answered you'll be prompted to create your own html page with your team's data displayed.
 
-<img src"http://www.giphy.com/gifs/lqvoUb4DcKMgaFtvdX">
+<img src"http://www.giphy.com/gifs/lqvoUb4DcKMgaFtvdX"
 
 ***
 
