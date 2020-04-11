@@ -1,4 +1,4 @@
-function generateMarkdown(data) {
+function generateMarkdown( data, userData) {
   return `
 # ${data.title}
 
@@ -18,6 +18,10 @@ function generateMarkdown(data) {
 * ${data.tests}
 
 * ${data.questions}
+
+* ${userData.avatar_url}
+
+* ${userData.email}
 `;
 }
 
