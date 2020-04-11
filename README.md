@@ -18,7 +18,7 @@
 - Each title has it's own specific questions as well. 
 - After questions have been answered you'll be prompted to create your own html page with your team's data displayed.
 
-<iframe src="https://giphy.com/embed/Jlofm8S7qonxatRUbb" width="480" height="347" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Jlofm8S7qonxatRUbb">via GIPHY</a></p>
+<img src"https://giphy.com/gifs/Jlofm8S7qonxatRUbb/html5">
 
 ***
 
