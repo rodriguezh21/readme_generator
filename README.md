@@ -10,24 +10,31 @@
 * [How it works](#Howitworks)
 * [Tech Used](#Techusage)
 * [Credits](#Credits)
-* [Tests](#Tests)
 
+***
 # How it works
 
 - You'll be prompted with questions including an employee name, ID, email, and title. 
 - Each title has it's own specific questions as well. 
 - After questions have been answered you'll be prompted to create your own html page with your team's data displayed.
 
-# ADD GIF HERE <-------->
+<img alt="" src"http://www.giphy.com/gifs/WqF9LdxeLv8ugKXr1Z">
 
+***
 
-## TECHNOLOGIES USED <ADD ICONS>
-- Bootstrap 
+## TECHNOLOGIES USED 
+  
+<img alt="Bootstrap" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1200px-Bootstrap_logo.svg.png" width="201" height="30"> https://www.getbootstrap.com/
+<img alt="Node.js" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1200px-Bootstrap_logo.svg.png" width="201" height="30"> https://www.getbootstrap.com/
 - Node.js 
 - Axios module 
 - Inquirer module 
 - Jest module
 
-## Credits
+***
 
-## Tests
+## Credits
+Hidding API keys with Enviroment Variables (dotenv)
+https://www.youtube.com/watch?v=17UVejOw3zA
+
+

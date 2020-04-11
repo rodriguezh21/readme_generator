@@ -1,11 +1,16 @@
 function generateMarkdown( data, userData) {
   return `
+
+* ${userData.avatar_url}
+
+* ${userData.email}
+===============================================================
 # ${data.title}
 
 ## ${data.description}
 
  ${data.contents}
-==============================================================================================
+===============================================================
 
 * ${data.installation}
 
@@ -18,10 +23,6 @@ function generateMarkdown( data, userData) {
 * ${data.tests}
 
 * ${data.questions}
-
-* ${userData.avatar_url}
-
-* ${userData.email}
 `;
 }
 

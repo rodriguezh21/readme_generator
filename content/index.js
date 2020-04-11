@@ -1,7 +1,6 @@
 const api = require("../utils/api");
 const fs = require("fs")
 const inquirer = require("inquirer");
-const axios = require('axios');
 const generateMarkdown = require("../utils/generateMarkdown");
 
 
@@ -69,21 +68,14 @@ const questions = [
 
 
 
-/*const questions = JSON.stringify(questions, null, 2);
-
-function writeToFile("questions.json", questions).then(function()  {
-console.log("Successfully wrote to questions.json file");
-});*/
-
-
 async function init() {
-  // console.log("API Data: "+JSON.stringify(api));
+  
   let response = await inquirer.prompt(questions)
   let apiRes = await api(response.username)
     console.log(apiRes.data)
-    //generateMarkdown(res);
+    
     fs.writeFile("log.md",generateMarkdown(response, apiRes.data),function(err,data){
-      // console.log(data);
+      
     })
 }
 
