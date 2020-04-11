@@ -24,7 +24,7 @@
 
 ## TECHNOLOGIES USED 
   
-<img alt="Bootstrap" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1200px-Bootstrap_logo.svg.png" width="201" height="30"> https://www.getbootstrap.com/
+<img alt="Bootstrap" src="/Users/hersonrodriguez/Desktop/Homework Assigments/readme_generator/content/assets/images/1200px-Bootstrap_logo.svg.png" width="201" height="30"> https://www.getbootstrap.com/
 <img alt="Node.js" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1200px-Bootstrap_logo.svg.png" width="201" height="30"> https://www.getbootstrap.com/
 - Node.js 
 - Axios module 
