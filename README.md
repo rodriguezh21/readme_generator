@@ -18,7 +18,7 @@
 - Each title has it's own specific questions as well. 
 - After questions have been answered you'll be prompted to create your own html page with your team's data displayed.
 
-<img alt="Readme Generator GIF" src"readme_generator/content/assets/Readme-Gen GIF.gif">
+/Users/hersonrodriguez/Desktop/Homework Assigments/readme_generator/content/assets/Readme-Gen GIF.gif
 
 ***
 
