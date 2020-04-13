@@ -26,7 +26,7 @@
   
  <img alt="Bootstrap Logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1200px-Bootstrap_logo.svg.png" width="28" height="30"> Bootstrap https://getbootstrap.com/
  
- <img alt="Open Weather Logo" src="https://upload.wikimedia.org/wikipedia/commons/f/f6/OpenWeather-Logo.jpg" width="28" height="30"> OpenWeather https://openweathermap.org/api
+ <img alt="Node JS Logo" src="https://jaystack.com/wp-content/uploads/2015/12/nodejs-logo-e1497443346889.png" width="28" height="30"> Node JS https://nodejs.org/en/
 - Node.js 
 - Axios module 
 - Inquirer module 
