@@ -18,7 +18,7 @@
 - Each title has it's own specific questions as well. 
 - After questions have been answered you'll be prompted to create your own html page with your team's data displayed.
 
-[url=https://imgflip.com/gif/3wao42][img]https://i.imgflip.com/3wao42.gif[/img][/url][url=https://imgflip.com/gif-maker]via Imgflip GIF Maker[/url]
+<a href="https://imgflip.com/gif/3wao42"><img src="https://i.imgflip.com/3wao42.gif">
 
 ***
 
