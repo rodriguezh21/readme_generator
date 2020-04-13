@@ -24,8 +24,7 @@
 
 ## TECHNOLOGIES USED 
   
-  <img alt="Bootstrap" src="../content/assets/images/bootstrap_logo.svg.png" width="201" height="30"> https://www.getbootstrap.com/
-<img alt="Node.js" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1200px-Bootstrap_logo.svg.png" width="201" height="30"> https://www.getbootstrap.com/
+ <img alt="Bootstrap Logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1200px-Bootstrap_logo.svg.png" width="28" height="30"> Bootstrap https://getbootstrap.com/docs/4.4/getting-started/introduction/
 - Node.js 
 - Axios module 
 - Inquirer module 
