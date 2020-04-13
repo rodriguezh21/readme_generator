@@ -25,6 +25,8 @@
 ## TECHNOLOGIES USED 
   
  <img alt="Bootstrap Logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1200px-Bootstrap_logo.svg.png" width="28" height="30"> Bootstrap https://getbootstrap.com/docs/4.4/getting-started/introduction/
+ 
+ <img alt="Open Weather Logo" src="https://upload.wikimedia.org/wikipedia/commons/f/f6/OpenWeather-Logo.jpg" width="28" height="30"> OpenWeather https://openweathermap.org/api
 - Node.js 
 - Axios module 
 - Inquirer module 
