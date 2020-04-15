@@ -1,7 +1,7 @@
 const axios = require('axios');
 require('dotenv').config()
 
-console.log("API Key:"+process.env.API_KEY);
+// console.log("API Key:"+process.env.API_KEY);
 
 
   
